@@ -1,0 +1,7 @@
+palindrome(string)
+
+def palindrome(string):
+if(string==string[::-1]):
+return " THE STRING IS PALINDROME"
+else:
+return " STRING IS NOT PALINDROME"
