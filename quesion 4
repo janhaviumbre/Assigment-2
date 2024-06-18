@@ -1,0 +1,4 @@
+#reverse_list(data)
+
+def reverse_list(data):
+return data[::-1]
